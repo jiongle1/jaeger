@@ -79,7 +79,7 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.21.0
 	golang.org/x/sys v0.18.0
-	google.golang.org/grpc v1.62.0
+	google.golang.org/grpc v1.62.1
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -213,7 +213,7 @@ require (
 	go.opentelemetry.io/collector/config/internal v0.96.0 // indirect
 	go.opentelemetry.io/collector/confmap/converter/expandconverter v0.96.0 // indirect
 	go.opentelemetry.io/collector/confmap/provider/envprovider v0.96.0 // indirect
-	go.opentelemetry.io/collector/confmap/provider/fileprovider v0.96.0 // indirect
+	go.opentelemetry.io/collector/confmap/provider/fileprovider v0.96.0
 	go.opentelemetry.io/collector/confmap/provider/httpprovider v0.96.0 // indirect
 	go.opentelemetry.io/collector/confmap/provider/httpsprovider v0.96.0 // indirect
 	go.opentelemetry.io/collector/confmap/provider/yamlprovider v0.96.0 // indirect
